@@ -27,7 +27,13 @@ maintain backwards compatibility for patch level increases (e.g. 0.0.1 to
 
 ## Getting Dagre
 
-### Browser Scrips
+### Browser Scripts
+
+#### Using Bower
+
+    bower install --save dagre
+
+#### Download Manually
 
 You can get the latest browser-ready scripts:
 
