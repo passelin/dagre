@@ -1,0 +1,27 @@
+{
+  "name": "dagre",
+  "main": "dist/dagre.js",
+  "version": "0.4.5",
+  "homepage": "https://github.com/cpettitt/dagre",
+  "authors": [
+    "Chris Pettitt <cpettitt@gmail.com>"
+  ],
+  "description": "Directed graph renderer for JavaScript",
+  "keywords": [
+    "graph"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "buid",
+    "bench",
+    "lib",
+    "src",
+    "index.js",
+    "Makefile",
+    "browser.js"
+  ]
+}
